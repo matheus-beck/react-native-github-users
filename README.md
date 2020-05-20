@@ -14,7 +14,7 @@
   <img src="preview-2.jpg" width=270 style="float:left">
   <img src="preview-3.jpg" width=270 style="float:left">
 </h1>
-<br>
+
 React Native app developed at RocketSeat that tracks GitHub users and starred repositories from GitHub API.  
 You can check the app here: https://appetize.io/app/y58uyzernxrwjaeu0b6k67mk6c
 
