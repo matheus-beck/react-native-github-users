@@ -1,5 +1,5 @@
 
-# 📱 React Native app that tracks GitHub users and starred repos
+# 📱 React Native GitHub Users and their Starred Repos
 
 <p align="center">
   <img alt="GitHub powered by" src="https://img.shields.io/badge/Powered%20by-React%20Native-blue.svg">
@@ -15,7 +15,7 @@
   <img src="preview-3.jpg" width=270 style="float:left">
 </h1>
 
-React Native app developed at RocketSeat that tracks GitHub users and starred repositories from GitHub API.  
+React Native app developed at RocketSeat that tracks GitHub users and their starred repositories from GitHub API.  
 You can check the app here: https://appetize.io/app/y58uyzernxrwjaeu0b6k67mk6c
 
 # Front end: React Native app
