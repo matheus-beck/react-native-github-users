@@ -18,7 +18,7 @@
     "appcenter": "3.0.2",
     "appcenter-analytics": "3.0.2",
     "appcenter-crashes": "3.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "prop-types": "^15.7.2",
     "react": "16.11.0",
     "react-native": "0.62.2",
